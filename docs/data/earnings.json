@@ -1,0 +1,185 @@
+{
+  "11": {
+    "year": 2025,
+    "median_weekly_all": 1131.9,
+    "mean_weekly_all": 1383.5,
+    "median_annual_all": 57745,
+    "mean_annual_all": 79627
+  },
+  "12": {
+    "year": 2025,
+    "median_weekly_all": 752.2,
+    "mean_weekly_all": 853.7,
+    "median_annual_all": 38949,
+    "mean_annual_all": 45305
+  },
+  "21": {
+    "year": 2025,
+    "median_weekly_all": 986.2,
+    "mean_weekly_all": 1079.4,
+    "median_annual_all": 51148,
+    "mean_annual_all": 57062
+  },
+  "22": {
+    "year": 2025,
+    "median_weekly_all": 799.5,
+    "mean_weekly_all": 889.6,
+    "median_annual_all": 40294,
+    "mean_annual_all": 44761
+  },
+  "23": {
+    "year": 2025,
+    "median_weekly_all": 859.2,
+    "mean_weekly_all": 859.3,
+    "median_annual_all": 43119,
+    "mean_annual_all": 42893
+  },
+  "24": {
+    "year": 2025,
+    "median_weekly_all": 910.3,
+    "mean_weekly_all": 1027.6,
+    "median_annual_all": 46925,
+    "mean_annual_all": 55781
+  },
+  "31": {
+    "year": 2025,
+    "median_weekly_all": 680.8,
+    "mean_weekly_all": 737.6,
+    "median_annual_all": 34828,
+    "mean_annual_all": 37988
+  },
+  "32": {
+    "year": 2025,
+    "median_weekly_all": 526.2,
+    "mean_weekly_all": 522.7,
+    "median_annual_all": 25813,
+    "mean_annual_all": 25678
+  },
+  "33": {
+    "year": 2025,
+    "median_weekly_all": 918.5,
+    "mean_weekly_all": 895.3,
+    "median_annual_all": null,
+    "mean_annual_all": null
+  },
+  "34": {
+    "year": 2025,
+    "median_weekly_all": 536.6,
+    "mean_weekly_all": 679.6,
+    "median_annual_all": 28102,
+    "mean_annual_all": 33754
+  },
+  "35": {
+    "year": 2025,
+    "median_weekly_all": 740.2,
+    "mean_weekly_all": 866.1,
+    "median_annual_all": 38760,
+    "mean_annual_all": 47971
+  },
+  "41": {
+    "year": 2025,
+    "median_weekly_all": 533.6,
+    "mean_weekly_all": 546.3,
+    "median_annual_all": 27006,
+    "mean_annual_all": 27747
+  },
+  "42": {
+    "year": 2025,
+    "median_weekly_all": 426.5,
+    "mean_weekly_all": 440.8,
+    "median_annual_all": 21061,
+    "mean_annual_all": 22555
+  },
+  "51": {
+    "year": 2025,
+    "median_weekly_all": 546.2,
+    "mean_weekly_all": 548.2,
+    "median_annual_all": 27550,
+    "mean_annual_all": 27752
+  },
+  "52": {
+    "year": 2025,
+    "median_weekly_all": 761.7,
+    "mean_weekly_all": 805.9,
+    "median_annual_all": 39155,
+    "mean_annual_all": 41180
+  },
+  "53": {
+    "year": 2025,
+    "median_weekly_all": 690.3,
+    "mean_weekly_all": 735.6,
+    "median_annual_all": 34928,
+    "mean_annual_all": 37104
+  },
+  "54": {
+    "year": 2025,
+    "median_weekly_all": 532.7,
+    "mean_weekly_all": 526.8,
+    "median_annual_all": 26063,
+    "mean_annual_all": 25987
+  },
+  "61": {
+    "year": 2025,
+    "median_weekly_all": 452.7,
+    "mean_weekly_all": 447.6,
+    "median_annual_all": 21082,
+    "mean_annual_all": 21301
+  },
+  "62": {
+    "year": 2025,
+    "median_weekly_all": 429.8,
+    "mean_weekly_all": 435.4,
+    "median_annual_all": 22297,
+    "mean_annual_all": 22753
+  },
+  "63": {
+    "year": 2025,
+    "median_weekly_all": 612.8,
+    "mean_weekly_all": 569.8,
+    "median_annual_all": 31050,
+    "mean_annual_all": 28883
+  },
+  "71": {
+    "year": 2025,
+    "median_weekly_all": 312.4,
+    "mean_weekly_all": 349,
+    "median_annual_all": 15975,
+    "mean_annual_all": 17655
+  },
+  "72": {
+    "year": 2025,
+    "median_weekly_all": 492.3,
+    "mean_weekly_all": 482.2,
+    "median_annual_all": 25127,
+    "mean_annual_all": 24836
+  },
+  "81": {
+    "year": 2025,
+    "median_weekly_all": 600,
+    "mean_weekly_all": 632.8,
+    "median_annual_all": 29940,
+    "mean_annual_all": 31545
+  },
+  "82": {
+    "year": 2025,
+    "median_weekly_all": 674.8,
+    "mean_weekly_all": 700.9,
+    "median_annual_all": 33960,
+    "mean_annual_all": 35274
+  },
+  "91": {
+    "year": 2025,
+    "median_weekly_all": 548.1,
+    "mean_weekly_all": 553,
+    "median_annual_all": 26716,
+    "mean_annual_all": 27068
+  },
+  "92": {
+    "year": 2025,
+    "median_weekly_all": 326.5,
+    "mean_weekly_all": 356.2,
+    "median_annual_all": 17287,
+    "mean_annual_all": 18431
+  }
+}
+
