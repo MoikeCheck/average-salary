@@ -1,0 +1,8 @@
+node_modules/
+.cache/
+.DS_Store
+
+# We intentionally commit generated static data for GitHub Pages.
+# (Data is built via: npm run build:data)
+!public/data/
+
