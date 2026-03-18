@@ -1,5 +1,5 @@
 window.SITE_CONFIG = {
-  ADSENSE_CLIENT: "",
+  ADSENSE_CLIENT: "ca-pub-7122355056555754",
   ADSENSE_SLOT: "",
 };
 
