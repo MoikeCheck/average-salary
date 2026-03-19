@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Average UK Salary by Job Role (Official ONS ASHE)</title>
+    <meta
+      name="description"
+      content="Find the average UK salary by job role using official ONS ASHE earnings data. Search occupation groups and view median and mean pay."
+    />
+    <meta name="google-adsense-account" content="ca-pub-7122355056555754" />
+    <link rel="canonical" href="https://moikecheck.github.io/average-salary/" />
+    <meta name="theme-color" content="#0b1220" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Average UK Salary by Job Role" />
+    <meta
+      property="og:description"
+      content="Official ONS ASHE earnings. Search job roles and see average UK salary (median and mean pay)."
+    />
+    <meta
+      property="og:url"
+      content="https://moikecheck.github.io/average-salary/"
+    />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Average UK Salary by Job Role" />
+    <meta
+      name="twitter:description"
+      content="Official ONS ASHE earnings. Search job roles and see average UK salary."
+    />
+
+    <link rel="stylesheet" href="./styles.css" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Average UK Salary by Job Role",
+        "url": "https://moikecheck.github.io/average-salary/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://moikecheck.github.io/average-salary/?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7122355056555754"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <main class="container">
+      <header class="header">
+        <div>
+          <h1>Average UK salary by job role</h1>
+          <p class="subtitle">
+            Official earnings from the ONS Annual Survey of Hours and Earnings
+            (ASHE). Search for a job role to see median and mean pay.
+          </p>
+        </div>
+      </header>
+
+      <section class="card">
+        <label class="label" for="roleSearch"
+          >Job role / occupation group</label
+        >
+        <input
+          id="roleSearch"
+          class="input"
+          type="search"
+          placeholder="Search: software, nurse, teacher, manager…"
+          autocomplete="off"
+        />
+        <div id="results" class="results" aria-live="polite"></div>
+      </section>
+
+      <section class="card">
+        <h2 class="h2">Selected role</h2>
+        <div id="selected" class="selected muted">Nothing selected yet.</div>
+      </section>
+
+      <section
+        class="card adSlot"
+        id="adSlot"
+        aria-label="Advertisement"
+      ></section>
+
+      <footer class="footer">
+        <div id="meta" class="muted"></div>
+      </footer>
+    </main>
+
+    <script type="module" src="./site-config.js"></script>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
